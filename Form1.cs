@@ -43,7 +43,7 @@ namespace veding_machine
             itemChocolate.Ingredients.Add("Water", 300);
             itemChocolate.Ingredients.Add("Chocolate", 20);
 
-            
+
             tb_black_coffee_price.Text = itemBlackCoffee.Price.ToString();
             tb_black_coffee_quantity.Text = itemBlackCoffee.Quantity.ToString();
 
@@ -100,12 +100,12 @@ namespace veding_machine
                     dTotal += itemBlackCoffee.GetTotalPrice();
                     itemBlackCoffee.UseIngredients(availableIngredients);
 
-                    
+
                     tb_water_mix.Text = availableIngredients["Water"].Quantity.ToString();
                     tb_coffee_mix.Text = availableIngredients["Coffee"].Quantity.ToString();
                 }
 
-               
+
                 if (chb_latte.Checked)
                 {
                     itemLatte.Quantity = int.Parse(tb_latte_quantity.Text);
@@ -142,25 +142,6 @@ namespace veding_machine
                 {
                     MessageBox.Show("Insufficient cash", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
-                }
-
-
-                if (chb_blackcoffee.Checked)
-                {
-                    itemBlackCoffee.Quantity = int.Parse(tb_black_coffee_quantity.Text);
-                    dTotal += itemBlackCoffee.GetTotalPrice();
-
-                    try
-                    {
-                        itemBlackCoffee.UseIngredients(availableIngredients);
-                        tb_water_mix.Text = availableIngredients["Water"].Quantity.ToString();
-                        tb_coffee_mix.Text = availableIngredients["Coffee"].Quantity.ToString();
-                    }
-                    catch (InvalidOperationException ex)
-                    {
-                        MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        return;
-                    }
                 }
 
                 double dChange = dCash - dTotal;

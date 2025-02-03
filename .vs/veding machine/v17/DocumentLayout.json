@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\007\\VS22\\C#-CS\\veding machine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|c:\\007\\vs22\\c#-cs\\veding machine\\in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F0779-84B7-41D9-9AD5-03A047A1E51B}|veding machine.csproj|solutionrelative:in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IN.cs",
               "DocumentMoniker": "C:\\007\\VS22\\C#-CS\\veding machine\\IN.cs",
               "RelativeDocumentMoniker": "IN.cs",
@@ -39,18 +39,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T23:25:54.636Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ITEM.cs",
               "DocumentMoniker": "C:\\007\\VS22\\C#-CS\\veding machine\\ITEM.cs",
               "RelativeDocumentMoniker": "ITEM.cs",
               "ToolTip": "C:\\007\\VS22\\C#-CS\\veding machine\\ITEM.cs",
               "RelativeToolTip": "ITEM.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T18:00:59.475Z",
               "EditorCaption": ""
@@ -63,14 +62,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\007\\VS22\\C#-CS\\veding machine\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T17:55:04.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\007\\VS22\\C#-CS\\veding machine\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
