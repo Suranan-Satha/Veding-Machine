@@ -1,0 +1,17 @@
+C:\007\VS22\C#-CS\veding machine\bin\Debug\net9.0-windows\veding machine.exe
+C:\007\VS22\C#-CS\veding machine\bin\Debug\net9.0-windows\veding machine.deps.json
+C:\007\VS22\C#-CS\veding machine\bin\Debug\net9.0-windows\veding machine.runtimeconfig.json
+C:\007\VS22\C#-CS\veding machine\bin\Debug\net9.0-windows\veding machine.dll
+C:\007\VS22\C#-CS\veding machine\bin\Debug\net9.0-windows\veding machine.pdb
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding_machine.Form1.resources
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding_machine.Properties.Resources.resources
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.csproj.GenerateResource.cache
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.AssemblyInfoInputs.cache
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.AssemblyInfo.cs
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.csproj.CoreCompileInputs.cache
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.dll
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\refint\veding machine.dll
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.pdb
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\veding machine.genruntimeconfig.cache
+C:\007\VS22\C#-CS\veding machine\obj\Debug\net9.0-windows\ref\veding machine.dll
